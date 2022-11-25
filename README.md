@@ -60,8 +60,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/yagueto/Spac
 
 ## Authors
 
-* **Yagueto** - ** - [Yagueto](https://github.com/yagueto) - **
-* **Terminaaitor05** - ** - [Terminaaitor05](https://github.com/Terminaaitor05) - **
+* [Yagueto](https://github.com/yagueto)
+* [Terminaaitor05](https://github.com/Terminaaitor05)
 
 ## Acknowledgements
 
